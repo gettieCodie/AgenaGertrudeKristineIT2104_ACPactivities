@@ -7,7 +7,7 @@ artist = input("Enter the artist: ").strip()
 
 print("---------------------\nSONG DETAILS\n---------------------")
 
-print(f"Year Release: {year2}")
+print(f"Year Released: {year2}")
 print(f"Genre: {genre}")
 print(f"Album: {album}")
 print(f"Title: {songTitle}")
